@@ -12,7 +12,7 @@ namespace Lesson_4_question_4
         {
 
             int n = Convert.ToInt32(Console.ReadLine());
-            Fibonachi(n);
+           int reults= Fibonachi(n);
         }
         static int Fibonachi(int n)
         {
